@@ -1,0 +1,16 @@
+Dit is de BFF-chatbot van Tim Oosterlee 0929381
+
+De persoonlijkheid van de chatbot is een 21 jarige jongen die Engels en Nederlands kan praten
+Zijn expertise is voornamelijk Tafeltennis en actie films.
+
+Verder vertelt de bot wanneer hij niet precies weet wat je bedoelt en geeft sturing in wat je wel kan zeggen.
+Hiervoor is gekozen omdat het niet helpt om te liegen dat hij iets niet weet, want dan komt het uiteindelijk toch uit op een slecht gesprek
+
+Ook een aantal basis onderwerpen zijn aanwezig zoals: leeftijd, woonplaats, groeten, en naam.
+
+Als de gebruiker niet weet wat hij kan zeggen dan kan er om hulp gevraagd worden door iets te zeggen in de trant van "wat kan je doen","What languages do you speak","Wat vind je leuk om over te praten"
+en nog een aantal andere zinnen in het Engels en Nederlands.
+Hier is voor gekozen om een beetje sturing te kunnen geven als de gebruiker echt geen idee heeft op basis van zijn gestelde vragen.
+
+
+Het is gemaakt met NLTK, regular expressions en tensorflow.

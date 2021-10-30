@@ -1,0 +1,7 @@
+nltk >= 3.4.3
+#nltk.download("punkt")
+tflearn >= 0.3.2
+numpy >= 1.16.1
+tensorflow >= 1.13.1
+#json
+#pickle
